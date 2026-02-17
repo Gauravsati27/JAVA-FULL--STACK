@@ -1,6 +1,5 @@
 
 /*Write a Java program to demonstrate the use of different types of literals in Java.
-
 The program must:
 Declare an integer literal representing a decimal value
 Declare an integer literal representing an octal value
