@@ -9,7 +9,7 @@ Declare a floating-point literal of type double
 Declare a floating-point literal of type float
 Declare a character literal
 Print each value with a descriptive message. */
-
+git push origin main
 public class Literals {
     public static void main(String[] args) {
         int decimalVal=200;
